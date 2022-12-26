@@ -1,0 +1,9 @@
+name: SkyblockCore
+version: '${project.version}'
+main: me.vodka_jpg.skyblockcore.SkyblockCore
+api-version: 1.19
+commands:
+  island:
+  test:
+  fly:
+  info:
